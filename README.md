@@ -1,4 +1,5 @@
-# demo_server
+# Background_management_server
+后台管理服务器
 
 ## 步骤
 1. 获取旧项目中的代码文件

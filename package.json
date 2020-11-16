@@ -1,5 +1,5 @@
 {
-	"name": "demo_server",
+	"name": "background_management_server",
 	"version": "1.0.0",
 	"description": "后台服务器，接受后台上传的数据存入数据库，并提供前端获取数据。",
 	"main": "app.js",
